@@ -6,7 +6,7 @@
 
 Backend engineer focused on **Node.js, TypeScript, and REST API design**. Shipped features in **fintech (Halan)** and **healthcare (Yodawy)**, then ran my own backend practice for 18 months. Currently wrapping up the **Codeworks SWE Immersive** (12 weeks full-time, advanced JavaScript, systems design, AI-assisted dev).
 
-I'm open to backend and full-stack roles in **Alicante**, **remote EU**, or willing to **relocate for the right team**.
+I'm open to backend and full-stack roles in **Spain**, **remote EU**, or willing to **relocate for the right team**.
 
 </div>
 
