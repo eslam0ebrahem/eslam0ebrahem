@@ -6,7 +6,7 @@
 
 Backend developer with **production experience in fintech (Halan) and healthcare (Yodawy)**, then ran my own backend practice for 18 months. I build clean REST APIs in **Node.js, Express, TypeScript**, design **MongoDB** and **PostgreSQL** schemas, and ship code reviewed by senior engineers.
 
-Currently completing the **[Codeworks SWE Immersive](https://codeworks.me/remote/software-engineering-immersive-course-europe/)** (12 weeks full-time): advanced JavaScript, systems design, and AI-assisted development. I use **Cursor** and **GitHub Copilot** daily to move faster without sacrificing quality.
+Currently completing the **[Codeworks SWE Immersive](https://codeworks.me/software-engineering-bootcamp/)** (12 weeks full-time): advanced JavaScript, systems design, and AI-assisted development. I use **Cursor** and **GitHub Copilot** daily to move faster without sacrificing quality.
 
 **Open to backend and full-stack roles in Spain, EU remote, or willing to relocate for the right team.**
 
@@ -25,7 +25,7 @@ Currently completing the **[Codeworks SWE Immersive](https://codeworks.me/remote
 
 ## 🏆 Education
 
-🎓 **Software Engineering Immersive** — [Codeworks](https://codeworks.me/remote/software-engineering-immersive-course-europe/) *(Currently enrolled — 12 weeks full-time)*
+🎓 **Software Engineering Immersive** — [Codeworks](https://codeworks.me/software-engineering-bootcamp/) *(Currently enrolled — 12 weeks full-time)*
 🎓 **B.S.E. Computer Science** — Modern Academy, Egypt (2016 – 2020)
 
 ## 🚀 What I'm Working On
