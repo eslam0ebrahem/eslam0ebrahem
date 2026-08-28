@@ -39,11 +39,7 @@ Currently completing the **[Codeworks SWE Immersive](https://codeworks.me/softwa
 
 | Repo | What it shows |
 |---|---|
-| [**pharmStock**](https://github.com/eslam0ebrahem/pharmStock) | TypeScript · Express · MongoDB — pharmacy inventory with role-based access and audit logging |
-| [**PillPay**](https://github.com/eslam0ebrahem/PillPay) | TypeScript payment-tracking service with idempotency keys, audit trails, and webhook support |
 | [**Trackzoon**](https://github.com/eslam0ebrahem/Trackzoon) | Node.js + Socket.IO real-time tracking system with React dashboard |
-| [**amazon-flex-cli**](https://github.com/eslam0ebrahem/amazon-flex-cli) | Go CLI tool for Amazon Flex drivers — block fetching and route management |
-| [**cita**](https://github.com/eslam0ebrahem/cita) | Node.js REST API for appointment scheduling with conflict detection |
 | [**autoscuela**](https://github.com/eslam0ebrahem/autoscuela) | Full-stack JavaScript driving-school booking app with REST API |
 
 ## 💼 Experience
