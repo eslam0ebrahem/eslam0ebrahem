@@ -2,60 +2,94 @@
 
 # 👋 Hi, I'm Eslam Abdelgalil
 
-### Junior-Mid Backend Developer · Node.js · TypeScript · REST APIs · Alicante, Spain
+### Backend Engineer · Node.js · TypeScript · Browser Products · APIs
 
-Backend developer with **production experience in fintech (Halan) and healthcare (Yodawy)**, then ran my own backend practice for 18 months. I build clean REST APIs in **Node.js, Express, TypeScript**, design **MongoDB** and **PostgreSQL** schemas, and ship code reviewed by senior engineers.
+I build reliable software end to end—from production backend services to local-first browser experiences. My background spans **fintech (Halan)**, **healthcare (Yodawy)**, and independent backend work, with hands-on experience designing APIs, data models, integrations, and maintainable systems.
 
-Currently completing the **[Codeworks SWE Immersive](https://codeworks.me/software-engineering-bootcamp/)** (12 weeks full-time): advanced JavaScript, systems design, and AI-assisted development. I use **Cursor** and **GitHub Copilot** daily to move faster without sacrificing quality.
+Based in **Alicante, Spain** and open to backend or full-stack opportunities in Spain, across the EU, or for the right international team.
 
-**Open to backend and full-stack roles in Spain, EU remote, or willing to relocate for the right team.**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islam1v/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:islamiibrahiim@gmail.com)
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
 
-**Languages:** Node.js · TypeScript · JavaScript · Go · SQL · Python
-**Backend:** Express · REST APIs · Microservices · Socket.IO · JWT · OAuth
-**Databases:** MongoDB · PostgreSQL · Redis · SQL
-**DevOps:** Docker · AWS (EC2, S3, Lambda) · CI/CD · GitHub Actions
-**Frontend (when needed):** React · HTML/CSS
-**Tools:** Git · Jest · Postman · Cursor · GitHub Copilot
+- 🔧 Build **Node.js, Express, and TypeScript** REST APIs with clear contracts and maintainable boundaries.
+- 🗄️ Design **MongoDB, PostgreSQL, Redis, and SQL** data models around real product and reliability needs.
+- 🌐 Build real-time and automation products using **Socket.IO**, browser extensions, external APIs, and background workflows.
+- 🧠 I care about **clean architecture, deterministic processing, privacy-conscious defaults, and code that can be tested without a browser or backend.
+- 🤖 Use **Cursor, GitHub Copilot, and AI coding agents** as engineering tools while keeping architecture and quality decisions grounded in the codebase.
+- 🌍 Based in Alicante, Spain, with international fintech and healthcare experience.
 
-## 🏆 Education
+## Featured Project
 
-🎓 **Software Engineering Immersive** — [Codeworks](https://codeworks.me/software-engineering-bootcamp/) *(Currently enrolled — 12 weeks full-time)*
-🎓 **B.S.E. Computer Science** — Modern Academy, Egypt (2016 – 2020)
+### [JobLint](https://github.com/eslam0ebrahem/jobLint)
 
-## 🚀 What I'm Working On
+**A local-first job clipper and application Kanban for LinkedIn and Indeed, built as a Chrome and Firefox extension.**
 
-- 🏗️ Building **production-grade Node.js / TypeScript services** with strong typing, observability, and clean architecture
-- 🎓 Wrapping up the **Codeworks SWE Immersive** — advanced JS, systems design, AI-assisted workflows
-- 🤖 Using **AI coding agents (Cursor, Copilot)** daily to ship faster without sacrificing code quality
-- 🔍 Looking for backend roles in **Spain** or **EU remote** where I can ship features end-to-end with senior engineers
+JobLint detects job postings, produces explainable fit reports, tracks applications through six stages, and keeps user data on-device by default. The optional AI layer is advisory, explicitly opt-in, and never replaces the deterministic score.
 
-## 📌 Pinned Repositories
+**What I built**
 
-| Repo | What it shows |
-|---|---|
-| [**Trackzoon**](https://github.com/eslam0ebrahem/Trackzoon) | Node.js + Socket.IO real-time tracking system with React dashboard |
-| [**autoscuela**](https://github.com/eslam0ebrahem/autoscuela) | Full-stack JavaScript driving-school booking app with REST API |
+- 🧩 A layered **TypeScript architecture** with pure domain policies, injected application services, and replaceable browser/network adapters.
+- 🧠 An evidence-first evaluator for fit, opportunity, safety, skills, confidence, missing data, and risk signals.
+- 💾 IndexedDB v6 persistence with identity deduplication, atomic event writes, and active v5→v6 migration repair.
+- 🔐 A typed gateway that keeps UI surfaces separate from persistence and browser APIs.
+- 🧪 **33 tests across 9 suites**, plus verified Chrome MV3 and Firefox MV2 production builds.
+- 🤖 Optional OpenAI-compatible AI review with safe local fallback, bounded requests, and three explicit opt-in gates.
 
-## 💼 Experience
+**Stack:** TypeScript · WXT · React 19 · Tailwind CSS 4 · IndexedDB · Vitest
 
-- **Backend Developer (Freelance)** — Oct 2024 – Present · Alicante, Remote
+[Explore the JobLint source and architecture →](https://github.com/eslam0ebrahem/jobLint)
+
+## More Projects
+
+| Project | Focus | Highlights |
+|---|---|---|
+| [amazon-flex-cli](https://github.com/eslam0ebrahem/amazon-flex-cli) | Go CLI | Retrieves Amazon Flex delivery blocks and supports route management. |
+| [PillPay](https://github.com/eslam0ebrahem/PillPay) | Payment backend | TypeScript/Express APIs with idempotency keys, audit trails, and webhook support. |
+| [cita](https://github.com/eslam0ebrahem/cita) | Scheduling API | Appointment REST API with conflict detection and email notifications. |
+| [amazon-price-tracker-bot](https://github.com/eslam0ebrahem/amazon-price-tracker-bot) | Realtime tracking | Telegram bot, admin dashboard, price-drop alerts, Socket.IO, and a Safari extension. |
+| [driving-exam-prep-platform](https://github.com/eslam0ebrahem/driving-exam-prep-platform) | EdTech | Gamified bilingual exam preparation with adaptive study plans and leaderboards. |
+
+[View all public repositories](https://github.com/eslam0ebrahem?tab=repositories)
+
+## Tech Stack
+
+**Languages:** TypeScript · JavaScript · Node.js · Go · SQL · Python
+
+**Backend:** Express · REST APIs · WebSockets · Socket.IO · JWT · OAuth · API integrations
+
+**Data:** MongoDB · PostgreSQL · Redis · SQL
+
+**Frontend & Extensions:** React · Tailwind CSS · WXT · IndexedDB · browser.storage
+
+**Cloud & Tooling:** Docker · AWS · GitHub Actions · CI/CD · Git · Postman · Jest · Vitest
+
+## Experience
+
+- **Backend Developer (Freelance)** — Oct 2024 – Present · Alicante / Remote
 - **Software Engineer @ Halan** — Feb 2024 – Nov 2024 · Cairo · Fintech
 - **Software Engineer @ Yodawy** — Jan 2023 – Feb 2024 · Cairo · Healthcare
 - **Junior Software Engineer @ Planning Solutions** — Sep 2022 – Jan 2023 · Cairo
 
-## 🌐 Connect
+## Education
+
+🎓 **Software Engineering Immersive** — [Codeworks](https://codeworks.me/software-engineering-bootcamp/)
+
+🎓 **B.S.E. Computer Science** — Modern Academy, Egypt (2016–2020)
+
+## Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/islam1v/)
-- 📧 islamiibrahiim@gmail.com
+- 📧 [islamiibrahiim@gmail.com](mailto:islamiibrahiim@gmail.com)
+- 💻 [GitHub](https://github.com/eslam0ebrahem)
 
 ---
 
 <div align="center">
-<sub>Built with Node, TypeScript, and a lot of <code>console.log</code></sub>
+<sub>Building dependable systems, one clear boundary at a time.</sub>
 </div>
