@@ -64,6 +64,9 @@ This is the main product I’m building end to end right now: a Next.js 16 (App 
 
 ## Experience
 
+- **Founder & Engineer, Metruta** — Present · Spain · EdTech
+  - Building a full-stack DGT Permiso B exam preparation platform for the Spanish market: a Next.js web client, a separate API-first backend service, and a Flutter iOS/Android mobile app.
+  - This is the main project I’m shipping now, and the repo is private.
 - **Backend Developer (Freelance)** — Oct 2024 – Present · Alicante / Remote
 - **Software Engineer @ Halan** — Feb 2024 – Nov 2024 · Cairo · Fintech
 - **Software Engineer @ Yodawy** — Jan 2023 – Feb 2024 · Cairo · Healthcare
