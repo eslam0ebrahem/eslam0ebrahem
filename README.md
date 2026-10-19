@@ -4,7 +4,7 @@
 
 ### Backend Engineer · Node.js · TypeScript · Browser Products · APIs
 
-I build reliable software end to end—from production backend services to local-first browser experiences. My background spans fintech, healthcare, and independent backend work, with hands-on experience designing APIs, data models, integrations, and maintainable systems.
+I build reliable software end to end—from production backend services to local-first browser experiences. My background spans fintech and healthcare production systems plus independent backend work, with hands-on experience designing APIs, data models, integrations, and maintainable systems.
 
 Based in **Alicante, Spain** and open to backend or full-stack opportunities in Spain, across the EU, or for the right international team.
 
@@ -49,11 +49,8 @@ JobLint detects job postings, produces explainable fit reports, tracks applicati
 
 | Project | Focus | Highlights |
 |---|---|---|
-| [amazon-flex-cli](https://github.com/eslam0ebrahem/amazon-flex-cli) | Go CLI | Retrieves Amazon Flex delivery blocks and supports route management. |
-| [PillPay](https://github.com/eslam0ebrahem/PillPay) | Payment backend | TypeScript/Express APIs with idempotency keys, audit trails, and webhook support. |
-| [cita](https://github.com/eslam0ebrahem/cita) | Scheduling API | Appointment REST API with conflict detection and email notifications. |
 | [amazon-price-tracker-bot](https://github.com/eslam0ebrahem/amazon-price-tracker-bot) | Realtime tracking | Telegram bot, admin dashboard, price-drop alerts, Socket.IO, and a Safari extension. |
-| [Metruta](https://github.com/eslam0ebrahem/metruta-web) | EdTech · Spain | Full-stack DGT Permiso B exam preparation platform built with Next.js 16, React 19, Tailwind CSS 4, with Fastify + Mongoose APIs and a Flutter mobile app. |
+| [Metruta](https://github.com/eslam0ebrahem/metruta-web) | EdTech · Spain | Full-stack DGT Permiso B exam preparation platform built with Next.js 16, React 19, and Tailwind CSS 4. The web client is a BFF proxy gateway serving the Spanish market via `https://metruta.com`, with a decoupled Fastify + Mongoose API (`metruta-api`) and a Flutter iOS/Android mobile app (`metruta-mobile`). |
 
 [View all public repositories](https://github.com/eslam0ebrahem?tab=repositories)
 
@@ -72,8 +69,8 @@ JobLint detects job postings, produces explainable fit reports, tracks applicati
 ## Experience
 
 - **Backend Developer (Freelance)** — Oct 2024 – Present · Alicante / Remote
-- **Software Engineer @ fintech** — Feb 2024 – Nov 2024 · Cairo
-- **Software Engineer @ healthcare** — Jan 2023 – Feb 2024 · Cairo
+- **Software Engineer @ Halan** — Feb 2024 – Nov 2024 · Cairo · Fintech
+- **Software Engineer @ Yodawy** — Jan 2023 – Feb 2024 · Cairo · Healthcare
 - **Junior Software Engineer @ Planning Solutions** — Sep 2022 – Jan 2023 · Cairo
 
 ## Education
