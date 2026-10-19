@@ -4,7 +4,7 @@
 
 ### Backend Engineer · Node.js · TypeScript · Browser Products · APIs
 
-I build reliable software end to end—from production backend services to local-first browser experiences. My background spans **fintech (Halan)**, **healthcare (Yodawy)**, and independent backend work, with hands-on experience designing APIs, data models, integrations, and maintainable systems.
+I build reliable software end to end—from production backend services to local-first browser experiences. My background spans fintech, healthcare, and independent backend work, with hands-on experience designing APIs, data models, integrations, and maintainable systems.
 
 Based in **Alicante, Spain** and open to backend or full-stack opportunities in Spain, across the EU, or for the right international team.
 
@@ -20,7 +20,7 @@ Based in **Alicante, Spain** and open to backend or full-stack opportunities in 
 - 🔧 Build **Node.js, Express, and TypeScript** REST APIs with clear contracts and maintainable boundaries.
 - 🗄️ Design **MongoDB, PostgreSQL, Redis, and SQL** data models around real product and reliability needs.
 - 🌐 Build real-time and automation products using **Socket.IO**, browser extensions, external APIs, and background workflows.
-- 🧠 I care about **clean architecture, deterministic processing, privacy-conscious defaults, and code that can be tested without a browser or backend.
+- 🧠 I care about **clean architecture, deterministic processing, privacy-conscious defaults, and code that can be tested without a browser or backend.**
 - 🤖 Use **Cursor, GitHub Copilot, and AI coding agents** as engineering tools while keeping architecture and quality decisions grounded in the codebase.
 - 🌍 Based in Alicante, Spain, with international fintech and healthcare experience.
 
@@ -53,7 +53,7 @@ JobLint detects job postings, produces explainable fit reports, tracks applicati
 | [PillPay](https://github.com/eslam0ebrahem/PillPay) | Payment backend | TypeScript/Express APIs with idempotency keys, audit trails, and webhook support. |
 | [cita](https://github.com/eslam0ebrahem/cita) | Scheduling API | Appointment REST API with conflict detection and email notifications. |
 | [amazon-price-tracker-bot](https://github.com/eslam0ebrahem/amazon-price-tracker-bot) | Realtime tracking | Telegram bot, admin dashboard, price-drop alerts, Socket.IO, and a Safari extension. |
-| [driving-exam-prep-platform](https://github.com/eslam0ebrahem/driving-exam-prep-platform) | EdTech | Gamified bilingual exam preparation with adaptive study plans and leaderboards. |
+| [Metruta](https://github.com/eslam0ebrahem/metruta-web) | EdTech · Spain | Full-stack DGT Permiso B exam preparation platform built with Next.js 16, React 19, Tailwind CSS 4, with Fastify + Mongoose APIs and a Flutter mobile app. |
 
 [View all public repositories](https://github.com/eslam0ebrahem?tab=repositories)
 
@@ -72,8 +72,8 @@ JobLint detects job postings, produces explainable fit reports, tracks applicati
 ## Experience
 
 - **Backend Developer (Freelance)** — Oct 2024 – Present · Alicante / Remote
-- **Software Engineer @ Halan** — Feb 2024 – Nov 2024 · Cairo · Fintech
-- **Software Engineer @ Yodawy** — Jan 2023 – Feb 2024 · Cairo · Healthcare
+- **Software Engineer @ fintech** — Feb 2024 – Nov 2024 · Cairo
+- **Software Engineer @ healthcare** — Jan 2023 – Feb 2024 · Cairo
 - **Junior Software Engineer @ Planning Solutions** — Sep 2022 – Jan 2023 · Cairo
 
 ## Education
