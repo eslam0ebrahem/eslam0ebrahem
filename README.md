@@ -26,7 +26,7 @@ Based in **Alicante, Spain** and open to backend or full-stack opportunities in 
 
 ## Featured Project
 
-### Metruta
+### [Metruta](https://metruta.com)
 
 **A full-stack DGT Permiso B exam preparation platform, built for the Spanish market.**
 
@@ -40,8 +40,6 @@ This is the main product I’m building end to end right now: a Next.js 16 (App 
 - 🛡️ Offline and re-sync behavior for exam practice, with service-worker and IndexedDB support.
 
 **Stack:** Next.js 16 · React 19 · Tailwind CSS 4 · Fastify · Mongoose · MongoDB · Flutter · Dart
-
-*(Repo is private; no public link added here on purpose.)*
 
 ## More Projects
 
