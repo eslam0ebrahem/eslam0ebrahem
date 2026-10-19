@@ -26,22 +26,22 @@ Based in **Alicante, Spain** and open to backend or full-stack opportunities in 
 
 ## Featured Project
 
-### [Metruta](https://github.com/eslam0ebrahem/metruta-web)
+### Metruta
 
 **A full-stack DGT Permiso B exam preparation platform, built for the Spanish market.**
 
-Metruta is the product I’m building end to end: a Next.js 16 (App Router) web client with a BFF proxy gateway that fronts the standalone Fastify + Mongoose API, plus a Flutter iOS and Android mobile app. It is the main project I’m shipping right now and the clearest example of how I work across backend, web, and mobile.
+This is the main product I’m building end to end right now: a Next.js 16 (App Router) web client with a backend-for-frontend proxy layer in front of a separate API service, plus a companion iOS and Android mobile app. I’m keeping the repo private, so this is just a short, public-safe summary of what I’m shipping.
 
 **What I’m building here**
 
-- 🌐 A production Next.js web client served at `https://metruta.com`, with the web app acting as a backend-for-frontend proxy to the API.
-- 🧠 API-first design in `metruta-api` with Fastify, Mongoose, JWT auth, Groq AI coach integration, Stripe passes, and the exam/question engine.
-- 📱 A companion Flutter mobile app (`metruta-mobile`) for iOS and Android.
-- 🛡️ Offline and re-sync behavior through a service worker and IndexedDB answer queue, plus PWA resilience for exam practice.
+- 🌐 A production Next.js web client for the Spanish market.
+- 🧠 A separated API-first backend service with auth, payments, AI-assisted coaching, and the exam/question engine.
+- 📱 A companion Flutter mobile app for iOS and Android.
+- 🛡️ Offline and re-sync behavior for exam practice, with service-worker and IndexedDB support.
 
 **Stack:** Next.js 16 · React 19 · Tailwind CSS 4 · Fastify · Mongoose · MongoDB · Flutter · Dart
 
-[Explore the Metruta web client →](https://github.com/eslam0ebrahem/metruta-web)
+*(Repo is private; no public link added here on purpose.)*
 
 ## More Projects
 
