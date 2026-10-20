@@ -2,87 +2,108 @@
 
 # 👋 Hi, I'm Eslam Abdelgalil
 
-### Backend Engineer · Node.js · TypeScript · Browser Products · APIs
+### Backend & Full Stack Developer · Node.js · TypeScript · Fastify · Next.js
 
-I build reliable software end to end—from production backend services to local-first browser experiences. My background spans fintech and healthcare production systems plus independent backend work, with hands-on experience designing APIs, data models, integrations, and maintainable systems.
+Backend-focused full-stack developer with 2+ years of experience building scalable REST APIs in Node.js, Fastify, and TypeScript across production platforms and agile teams at Metruta, Halan, and Yodawy. Recently completed Codeworks’ Software Engineering Immersive.
 
-Based in **Alicante, Spain** and open to backend or full-stack opportunities in Spain, across the EU, or for the right international team.
+📍 **Alicante, Spain** · Open to backend and full-stack engineering roles in Spain or EU remote.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islam1v/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:islamiibrahiim@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/eslam0ebrahem)
 
 </div>
 
 ---
 
-## About Me
+## 🚀 About Me
 
-- 🔧 Build **Node.js, Express, and TypeScript** REST APIs with clear contracts and maintainable boundaries.
-- 🗄️ Design **MongoDB, PostgreSQL, Redis, and SQL** data models around real product and reliability needs.
-- 🌐 Build real-time and automation products using **Socket.IO**, browser extensions, external APIs, and background workflows.
-- 🧠 I care about **clean architecture, deterministic processing, privacy-conscious defaults, and code that can be tested without a browser or backend.**
-- 🤖 Use **Cursor, GitHub Copilot, and AI coding agents** as engineering tools while keeping architecture and quality decisions grounded in the codebase.
-- 🌍 Based in Alicante, Spain, with international fintech and healthcare experience.
+- 🔧 **Backend & API Architecture:** Build decoupled, production RESTful APIs using **Node.js, Fastify, and Express 5** with TypeScript, fully documented with OpenAPI and secured with JWT rotation.
+- 🗄️ **Data Modeling & Caching:** Design robust data schemas in **MongoDB Atlas / Mongoose and PostgreSQL**, optimizing high-frequency read/write paths with **Redis caching** and asynchronous queues.
+- 🌐 **Modern Full Stack & Web:** Engineer responsive web clients and PWAs using **Next.js (App Router), React 19, and Tailwind CSS**, supporting offline IndexedDB persistence and real-time WebSockets.
+- ⚙️ **Concurrency & Reliability:** Implemented Compare-and-Swap (CAS) protocols to prevent state race conditions, SM-2 spaced repetition algorithms, and transactional billing workflows via Stripe Checkout and webhooks.
+- 🎓 **Codeworks Graduate:** Completed the rigorous 12-week Software Engineering Immersive (70+ hrs/week) covering advanced TypeScript, systems architecture, microservices, and databases.
 
-## Featured Project
+---
 
-### [Metruta](https://metruta.com)
+## 🌟 Featured Projects
 
-**A full-stack DGT Permiso B exam preparation platform, built for the Spanish market.**
+### 🚗 [Metruta](https://metruta.com) — Production EdTech SaaS
+*Bilingual SaaS platform for Spanish DGT Permiso B driving exam preparation featuring 6,600+ questions and thousands of practice attempts.*
 
-This is the main product I’m building end to end right now: a Next.js 16 (App Router) web client with a backend-for-frontend proxy layer in front of a separate API service, plus a companion iOS and Android mobile app. I’m keeping the repo private, so this is just a short, public-safe summary of what I’m shipping.
+- **Decoupled API Architecture:** Engineered backend REST APIs in **Node.js, Fastify, and MongoDB Atlas / Mongoose** documented with OpenAPI and secured with JWT auth rotation.
+- **Race Condition Prevention:** Implemented a monotonic Compare-and-Swap (CAS) attempt protocol to eliminate packet race conditions between client and server, alongside SM-2 spaced repetition algorithms for targeted error remediation.
+- **Client & Billing:** Built responsive web client with **Next.js App Router, React 19, and Tailwind CSS**, supporting offline PWA synchronization via IndexedDB. Integrated Stripe Checkout, customer billing portal, automated webhook handlers, and an automated Groq AI tutor.
+- **Tech Stack:** Node.js · Fastify · Next.js · React 19 · TypeScript · MongoDB · Tailwind CSS · Stripe API · Groq API
 
-**What I’m building here**
+---
 
-- 🌐 A production Next.js web client for the Spanish market.
-- 🧠 A separated API-first backend service with auth, payments, AI-assisted coaching, and the exam/question engine.
-- 📱 A companion Flutter mobile app for iOS and Android.
-- 🛡️ Offline and re-sync behavior for exam practice, with service-worker and IndexedDB support.
+### 🍕 [LunchRound](https://github.com/PetarTurovic/lunch-round) — Codeworks Thesis Project
+*Platform coordinating group food orders and bill splitting for distributed and office teams (2-person team).*
 
-**Stack:** Next.js 16 · React 19 · Tailwind CSS 4 · Fastify · Mongoose · MongoDB · Flutter · Dart
+- **Backend Architecture & Transactions:** Engineered secure REST API in **Express 5 and Mongoose** with transactional settlement calculations and in-memory rate limiting.
+- **Geospatial Search:** Implemented store search with GPS-based proximity filtering and interactive radius selection.
+- **Authentication & Deployment:** Designed a token-hash authentication protocol for order submission and configured production CI/CD pipelines on Render.
+- **Tech Stack:** TypeScript · React 19 · Node.js · Express 5 · MongoDB / Mongoose · Vite · Tailwind CSS
 
-## More Projects
+---
 
-| Project | Focus | Highlights |
-|---|---|---|
-| [JobLint](https://github.com/eslam0ebrahem/jobLint) | Browser extension · TypeScript | A local-first job clipper and application Kanban for LinkedIn and Indeed, built as a Chrome and Firefox extension with an evidence-first evaluator and on-device IndexedDB persistence. |
-| [amazon-price-tracker-bot](https://github.com/eslam0ebrahem/amazon-price-tracker-bot) | Realtime tracking | Telegram bot, admin dashboard, price-drop alerts, Socket.IO, and a Safari extension. |
+### 💼 [JobLint](https://github.com/eslam0ebrahem/jobLint) — Codeworks Solo Project
+*Local-first browser extension and Kanban tracker for automated job clipping, skill gap evaluation, and application tracking.*
 
-[View all public repositories](https://github.com/eslam0ebrahem?tab=repositories)
+- **Local-First Extension:** Developed a Manifest V3 browser extension with **React 19, WXT, and IndexedDB** for zero-latency, private Kanban tracking.
+- **Multi-Platform Scrapers:** Engineered layered DOM scrapers and JSON-LD extractors supporting LinkedIn, Indeed, Greenhouse, Lever, and Ashby.
+- **Taxonomy Matching:** Integrated a canonical skill taxonomy matching engine alongside an opt-in LLM analysis pipeline with content-hash response caching.
+- **Tech Stack:** React 19 · TypeScript · WXT · Tailwind CSS · IndexedDB · Groq API · Node.js
 
-## Tech Stack
+---
 
-**Languages:** TypeScript · JavaScript · Node.js · Go · SQL · Python
+## 🛠️ Tech Stack
 
-**Backend:** Express · REST APIs · WebSockets · Socket.IO · JWT · OAuth · API integrations
+- **Languages:** JavaScript (ES6+), TypeScript, SQL, Python (Basics)
+- **Backend & Runtimes:** Node.js, Fastify, Express.js, RESTful APIs, OpenAPI, MongoDB / Mongoose, PostgreSQL, Redis, Stripe API & Webhooks, JWT, WebSockets
+- **Frontend & Tools:** React 19, Next.js (App Router), Tailwind CSS, Vite, WXT, IndexedDB, Docker, Postman, Linux, Git, GitHub Actions, Jest, Vitest, AWS (EC2, S3)
+- **Methodologies:** Clean Architecture, REST API Design, Microservices, CI/CD, Agile / Scrum, TDD
 
-**Data:** MongoDB · PostgreSQL · Redis · SQL
+---
 
-**Frontend & Extensions:** React · Tailwind CSS · WXT · IndexedDB · browser.storage
+## 💼 Work Experience
 
-**Cloud & Tooling:** Docker · AWS · GitHub Actions · CI/CD · Git · Postman · Jest · Vitest
+- **Software Engineer @ Metruta** — *Sep 2026 – Present · Alicante, Spain (Remote)*
+  - Designed and maintained production bilingual EdTech SaaS platform with Fastify, Next.js App Router, MongoDB Atlas, CAS attempt protocols, and Stripe customer billing.
+- **Backend Developer @ Freelance** — *Dec 2024 – Present · Alicante, Spain (Remote)*
+  - Built and deployed production REST APIs and backend services using Node.js, TypeScript, and Express. Designed schemas in PostgreSQL/MongoDB and integrated Stripe payments and Redis queues.
+- **Software Engineer @ Halan** — *Feb 2024 – Nov 2024 · Cairo, Egypt (Fintech)*
+  - Built Node.js REST API endpoints supporting ride-booking and driver-matching features for a high-scale mobile app with Redis caching.
+- **Software Engineer @ Yodawy** — *Jan 2023 – Feb 2024 · Cairo, Egypt (Healthcare)*
+  - Developed backend API routes in Node.js for prescription processing and health insurance validation workflows with Joi input validation and MongoDB.
+- **Junior Software Engineer @ Planning Solutions** — *Sep 2022 – Jan 2023 · Cairo, Egypt*
+  - Built React UI components and assisted with backend Node.js routes for enterprise tools, deploying to AWS EC2 and S3.
 
-## Experience
+---
 
-- **Founder & Engineer, Metruta** — Present · Spain · EdTech
-  - Building a full-stack DGT Permiso B exam preparation platform for the Spanish market: a Next.js web client, a separate API-first backend service, and a Flutter iOS/Android mobile app.
-  - This is the main project I’m shipping now, and the repo is private.
-- **Backend Developer (Freelance)** — Oct 2024 – Present · Alicante / Remote
-- **Software Engineer @ Halan** — Feb 2024 – Nov 2024 · Cairo · Fintech
-- **Software Engineer @ Yodawy** — Jan 2023 – Feb 2024 · Cairo · Healthcare
-- **Junior Software Engineer @ Planning Solutions** — Sep 2022 – Jan 2023 · Cairo
+## 🎓 Education & Training
 
-## Education
+- 🎓 **Software Engineering Immersive** — [Codeworks](https://codeworks.me/software-engineering-bootcamp/) *(Jul 2026 – Oct 2026)*  
+  12 weeks full-time (70+ hrs/week) covering advanced JavaScript/TypeScript, systems architecture, microservices, databases, and full-stack engineering.
+- 🎓 **B.S. in Computer Science** — Modern Academy, Egypt *(2016 – 2020)*  
+  Major GPA: 3.4. Coursework in Data Structures, Algorithms, Database Systems, Software Engineering, and Operating Systems.
 
-🎓 **Software Engineering Immersive** — [Codeworks](https://codeworks.me/software-engineering-bootcamp/)
+---
 
-🎓 **B.S.E. Computer Science** — Modern Academy, Egypt (2016–2020)
+## 🌍 Spoken Languages
 
-## Connect
+- 🇬🇧 **English:** Fluent / Professional Working Proficiency
+- 🇪🇸 **Spanish:** Elementary / Basic (A1/A2 · Currently learning in Spain)
+- 🇪🇬 **Arabic:** Native
+
+---
+
+## 📬 Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/islam1v/)
 - 📧 [islamiibrahiim@gmail.com](mailto:islamiibrahiim@gmail.com)
-- 💻 [GitHub](https://github.com/eslam0ebrahem)
+- 💻 [GitHub Profile](https://github.com/eslam0ebrahem)
 
 ---
 
